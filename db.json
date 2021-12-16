@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "date": "2021-10-20T00:00:00-03:00",
+      "description": "SSD de 120GB",
+      "value": 12000,
+      "category": "Eletronicos",
+      "week_day": "Quarta",
+      "type": "debit",
+      "id": 1
+    },
+    {
+      "date": "2021-10-12T00:00:00-03:00",
+      "description": "Salário de Desenvolvedor Júnior",
+      "value": 271100,
+      "category": "Salário",
+      "week_day": "Terça",
+      "type": "credit",
+      "id": 2
+    }
+  ]
+}
